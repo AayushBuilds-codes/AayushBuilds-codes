@@ -1,4 +1,3 @@
-```md
 <!-- GitHub profile README for Aayush Agarwal -->
 
 <div align="center">
@@ -20,14 +19,13 @@
 
 ## About me
 
-```yaml
+
 name: Aayush Agarwal
 location: Kanpur, India
 education: B.Tech in Computer Science (AI & ML), GLA University
 expected_graduation: May 2029
 focus: [Artificial Intelligence, Machine Learning, Full-stack Development, Cybersecurity]
 currently: Contributing to open source through GirlScript Summer of Code 2026
-```
 
 I am a Computer Science student who enjoys turning ideas and data into practical software. My work spans machine-learning workflows, data analysis, REST API integration, and full-stack web development.
 
