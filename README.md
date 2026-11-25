@@ -55,6 +55,17 @@ I am a Computer Science student who enjoys turning ideas and data into practical
 ## Experience
 
 <details open>
+<summary><b>Data &amp; Generative AI Intern - SkillCred (in collaboration with GLA University)</b> <sub>(Jul 2026 - Sep 2026 &bull; Remote)</sub></summary>
+
+<br />
+
+- Engineered modern Generative AI workflows and prompt engineering pipelines during a 2-month remote micro-internship.
+- Developed real-world data handling and analytics capabilities with Python and SQL, bridging academic theory with industry standards.
+- Collaborated remotely with SkillCred and GLA University on applied AI projects and intelligent systems.
+
+</details>
+
+<details open>
 <summary><b>Artificial Intelligence Intern - Jyesta Corporation Limited</b> <sub>(Dec 2025 - Jan 2026)</sub></summary>
 
 <br />
@@ -85,10 +96,9 @@ I am a Computer Science student who enjoys turning ideas and data into practical
 
 | Area | Skills |
 | --- | --- |
-| Machine learning & data | scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, data preprocessing, feature engineering, statistical modeling |
-| Web & APIs | HTML5, CSS3, JavaScript, Node.js, frontend and backend development, REST API integration |
-| Engineering workflow | Git, VS Code, UI/UX prototyping |
-| Exploring | Generative AI engineering, cybersecurity fundamentals, model deployment |
+| AI, ML & Generative AI | LLMs, Prompt Engineering, Google Gemini API, AI Agents, scikit-learn, ONNX Runtime, Transformers.js, Pandas, NumPy, Matplotlib, Seaborn |
+| Web, 3D & Databases | HTML5, CSS3, JavaScript (ES6+), TypeScript, React, Django, Flask, Node.js, Three.js (WebGL), Supabase, MongoDB, MySQL, REST APIs |
+| Cloud, DevSecOps & Workflow | Microsoft Azure, AWS, GCP, Git, GitHub Actions, SAST Alert Triage / AppSec, Web Speech API (STT/TTS), VS Code, Anaconda |
 
 </details>
 
